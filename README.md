@@ -37,7 +37,7 @@ Developed by:
 - [Goh Teng Fong](https://github.com/GohTengFong)
 - [Clemen Ong](https://github.com/clemenong1)
 - [Lim Sim Yee](https://github.com/simei2k)
-- [Yu Seung Yeon](https://github.com/aviannayu)
+- [Yu Seung Yeon](https://github.com/yuglyyy)
 - [Lambert Fong](https://github.com/Lmaberd)
 - [Zhuo Lin (Jolynn) Wee](https://github.com/jolwnn)
 - [Darren Teo](https://github.com/darHH)
