@@ -20,6 +20,7 @@ Install required libraries and run development server:
 
 ```bash
 cd frontend
+
 npm i
 
 npm run dev
